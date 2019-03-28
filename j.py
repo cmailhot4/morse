@@ -8,7 +8,7 @@ def run():
 	led.on()
 	sleep(1)
 	led.off()
-	while i <= 3
+	while i <= 3:
 		sleep(1)
 		led.on()
 		sleep(3)
