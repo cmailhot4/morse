@@ -13,5 +13,5 @@ def run():
 		led.on()
 		sleep(3)
 		led.off()
-		i+=1
+		i += 1
 	sleep(3)
