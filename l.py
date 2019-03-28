@@ -17,6 +17,6 @@ def run():
 	led.off
 	sleep(1)
 	led.on()
-sleep(1)
-led.off()
-sleep(3)
+	sleep(1)
+	led.off()
+	sleep(3)
